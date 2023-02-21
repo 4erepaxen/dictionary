@@ -1,4 +1,4 @@
-TARGET = Sorting_Array
+TARGET = Dictionary
 CC = gcc
 
 SRC = $(shell find . -name '*.c') # $(wildcard *.c) 
